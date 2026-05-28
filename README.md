@@ -19,3 +19,7 @@ This repository contains my Python practice programs and mini projects
 - Diamond Pattern
 - Hollow Diamond Pattern
 - Butterfly Pattern
+
+## CyberSecurity Mini-Projects
+
+- Password Strength Checker
