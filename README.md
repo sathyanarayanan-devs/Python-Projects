@@ -2,10 +2,10 @@
 
 This repository contains my Python practice programs and mini projects
 
-## Projects
+## Mini-Projects
 
-- Basic Calculator
-- Scientific Calculator
+- [Basic Calculator](https://github.com/sathyanarayanan-devs/Python-Projects/blob/main/Cybersecurity/calculator.py)
+- [Scientific Calculator](https://github.com/sathyanarayanan-devs/Python-Projects/blob/main/Cybersecurity/ScientificCalc.py)
 
 ## Pattern Programs
 
