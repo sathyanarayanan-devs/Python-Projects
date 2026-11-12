@@ -4,8 +4,9 @@ This repository contains my Python practice programs and mini projects
 
 ## Mini-Projects
 
-- [Basic Calculator](https://github.com/sathyanarayanan-devs/Python-Projects/blob/main/Cybersecurity/calculator.py)
-- [Scientific Calculator](https://github.com/sathyanarayanan-devs/Python-Projects/blob/main/Cybersecurity/ScientificCalc.py)
+- [Basic Calculator](https://github.com/sathyanarayanan-devs/Python-Projects/blob/main/Mini_Projects/calculator.py)
+- [Scientific Calculator](https://github.com/sathyanarayanan-devs/Python-Projects/blob/main/Mini_Projects/ScientificCalc.py)
+- [Student Record Management CLI Application](https://github.com/sathyanarayanan-devs/Python-Projects/blob/main/Mini_Projects/student_record_project/main.py)
 
 ## Pattern Programs
 
