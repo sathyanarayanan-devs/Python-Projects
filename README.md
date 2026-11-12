@@ -25,3 +25,5 @@ This repository contains my Python practice programs and mini projects
 
 - Password Strength Checker
 - Caeser Cipher Tool
+- Username Strength Checker
+- Random Password Generator
